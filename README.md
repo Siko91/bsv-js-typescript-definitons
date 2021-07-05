@@ -1,0 +1,1 @@
+# bsv-js-typescript-definitons
