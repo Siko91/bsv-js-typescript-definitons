@@ -1,0 +1,19 @@
+{
+  "name": "bsv-js-typescript-definitons",
+  "version": "1.0.0",
+  "description": "Typescript Definition file for the `bsv` javascript library (`version 2.0.10`).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siko91/bsv-js-typescript-definitons.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Siko91/bsv-js-typescript-definitons/issues"
+  },
+  "homepage": "https://github.com/Siko91/bsv-js-typescript-definitons#readme"
+}
